@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy 🏴‍☠️, I'm James Garrick</h1>
-<h3 align="center">Ambitious developer from Memphis, TN</h3>
+<h3 align="center">Developer from Memphis, TN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesgarrick&label=Profile%20views&color=0e75b6&style=flat" alt="jamesgarrick" /> </p>
 
